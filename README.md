@@ -35,5 +35,5 @@ SQL (syntaxe SQLite via `strftime`), Jupyter Notebook, présentation Canva (expo
 - Les indicateurs permettent de cibler des renforts aux bons créneaux
 ## Aperçu des résultats
 
-![Résultats](assets/requete_resultat.png)
-![Requêtes](assets/graphique.png)
+![requete_resultat](assets/requete_resultat.png)
+![graphique](assets/graphique.png)
