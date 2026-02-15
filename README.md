@@ -21,7 +21,19 @@ Projet d’analyse de données d’un réseau de transport urbain : fréquentati
 ## Technologies
 SQL (syntaxe SQLite via `strftime`), Jupyter Notebook, présentation Canva (export PDF)
 
+## Questions analysées
+
+- Quelles sont les lignes les plus fréquentées ?
+- Quels arrêts posent le plus de retards ?
+- À quelles heures le réseau est le plus chargé ?
+- Quelles lignes sont les plus ponctuelles ?
+
+
 ## Résultats (synthèse)
 - Les retards se concentrent pendant les pics (matin / fin de journée)
 - Certains arrêts ressortent comme points critiques pendant les heures de pointe
 - Les indicateurs permettent de cibler des renforts aux bons créneaux
+## Aperçu des résultats
+
+![Résultats](assets/requete_resultat.png)
+![Requêtes](assets/graphique.png)
